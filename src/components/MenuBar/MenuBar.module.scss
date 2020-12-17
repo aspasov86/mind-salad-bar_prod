@@ -1,0 +1,31 @@
+@import '../../constants/variables.scss';
+
+.menubar {
+  font-Family: inherit !important;
+  h3, a {
+    text-transform: uppercase !important;
+  }
+  a {
+    font-weight: 900 !important;
+    letter-spacing: .31em !important;
+    font-size: .7rem !important;
+  }
+}
+
+.topTapeImage {
+  width: 100%;
+  background-repeat: repeat-x;
+  background-size: 10rem 1rem;
+  background-position-y: .15rem;
+  height: 1.5rem;
+}
+
+.firstColor {
+  color: $green-color !important;
+}
+.secondColor {
+  color: $orange-color!important;
+}
+.thirdColor {
+  color: $purple-color !important;
+}

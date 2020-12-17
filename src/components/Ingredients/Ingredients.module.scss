@@ -1,0 +1,22 @@
+@import '../../constants/variables.scss';
+
+.newBtn {
+  flex-grow: 17;
+  button {
+    background-color: $orange-color !important;
+    color: white !important;
+  }
+}
+
+.items {
+  div:global(.ui.divided.items) {
+    div:global(.item) {
+      padding-top: 1em !important;
+      padding-bottom: 1em !important;
+      position: relative !important;
+    }
+    div:global(.item):last-of-type {
+      border-bottom: 1px solid rgba(34,36,38,.15) !important;
+    }
+  }
+}
