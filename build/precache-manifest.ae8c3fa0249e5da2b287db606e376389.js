@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0231bc55edb6471af773c26b553e08a7",
+    "revision": "99481b114624ea14f39fa2a370aa87aa",
     "url": "/mind-salad-bar_prod/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-salad-bar_prod/static/css/2.6c4b800a.chunk.css"
   },
   {
-    "revision": "517bcaf197aa5ca02d78",
+    "revision": "048f44f909585fb4ec68",
     "url": "/mind-salad-bar_prod/static/css/main.80c7b5ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "517bcaf197aa5ca02d78",
-    "url": "/mind-salad-bar_prod/static/js/main.41f1530e.chunk.js"
+    "revision": "048f44f909585fb4ec68",
+    "url": "/mind-salad-bar_prod/static/js/main.4c9c7b99.chunk.js"
   },
   {
     "revision": "2a099a47cb1ba65470d1",
