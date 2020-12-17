@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bae836b9fd238c9efe76f8d001bbe13c",
+    "revision": "0231bc55edb6471af773c26b553e08a7",
     "url": "/mind-salad-bar_prod/index.html"
   },
   {
-    "revision": "07d64cefe6c1f61d9ee7",
+    "revision": "9e1853198610003ea3f2",
     "url": "/mind-salad-bar_prod/static/css/2.6c4b800a.chunk.css"
   },
   {
-    "revision": "649056ee367f6b6b15cf",
-    "url": "/mind-salad-bar_prod/static/css/main.29cc0385.chunk.css"
+    "revision": "517bcaf197aa5ca02d78",
+    "url": "/mind-salad-bar_prod/static/css/main.80c7b5ed.chunk.css"
   },
   {
-    "revision": "07d64cefe6c1f61d9ee7",
-    "url": "/mind-salad-bar_prod/static/js/2.e6fd5703.chunk.js"
+    "revision": "9e1853198610003ea3f2",
+    "url": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js"
   },
   {
     "revision": "71581c89e85f99f420b2d742bb511649",
-    "url": "/mind-salad-bar_prod/static/js/2.e6fd5703.chunk.js.LICENSE.txt"
+    "url": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "649056ee367f6b6b15cf",
-    "url": "/mind-salad-bar_prod/static/js/main.4d95772b.chunk.js"
+    "revision": "517bcaf197aa5ca02d78",
+    "url": "/mind-salad-bar_prod/static/js/main.41f1530e.chunk.js"
   },
   {
     "revision": "2a099a47cb1ba65470d1",
