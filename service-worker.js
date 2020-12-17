@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mind-salad-bar_prod/precache-manifest.019cd147dc996a836e9b40ddd1075b29.js"
+  "/mind-salad-bar_prod/precache-manifest.0de3d93e73d93ac7d423400b2352eefe.js"
 );
 
 self.addEventListener('message', (event) => {
