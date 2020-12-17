@@ -4,12 +4,12 @@ import Segment from 'semantic-ui-react/dist/commonjs/elements/Segment/Segment';
 
 const EmptyPlaceholder = ({ filteredData, data, itemName }) => (
   <>
-    {!data.length && (
+    {(!data || !data.length) && (
       <Segment>
         {`Create new ${itemName.toLowerCase()}`}
       </Segment>
     )}
-    {filteredData.length === 0 && data.length !== 0 && (
+    {(filteredData.length === 0 && data && data.length !== 0) && (
       <Segment>
         No results found
       </Segment>
