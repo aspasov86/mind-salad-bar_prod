@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mind-salad-bar_prod/static/css/main.80c7b5ed.chunk.css",
-    "main.js": "/mind-salad-bar_prod/static/js/main.f548c061.chunk.js",
-    "main.js.map": "/mind-salad-bar_prod/static/js/main.f548c061.chunk.js.map",
+    "main.js": "/mind-salad-bar_prod/static/js/main.31f606ec.chunk.js",
+    "main.js.map": "/mind-salad-bar_prod/static/js/main.31f606ec.chunk.js.map",
     "runtime-main.js": "/mind-salad-bar_prod/static/js/runtime-main.54a0a78a.js",
     "runtime-main.js.map": "/mind-salad-bar_prod/static/js/runtime-main.54a0a78a.js.map",
     "static/css/2.6c4b800a.chunk.css": "/mind-salad-bar_prod/static/css/2.6c4b800a.chunk.css",
-    "static/js/2.45187249.chunk.js": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js",
-    "static/js/2.45187249.chunk.js.map": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js.map",
+    "static/js/2.cc1d6a2e.chunk.js": "/mind-salad-bar_prod/static/js/2.cc1d6a2e.chunk.js",
+    "static/js/2.cc1d6a2e.chunk.js.map": "/mind-salad-bar_prod/static/js/2.cc1d6a2e.chunk.js.map",
     "index.html": "/mind-salad-bar_prod/index.html",
-    "precache-manifest.5af69bbe8774572d129bf3421d54aefb.js": "/mind-salad-bar_prod/precache-manifest.5af69bbe8774572d129bf3421d54aefb.js",
+    "precache-manifest.e12ad2689aefe42992134e7d7feffd40.js": "/mind-salad-bar_prod/precache-manifest.e12ad2689aefe42992134e7d7feffd40.js",
     "service-worker.js": "/mind-salad-bar_prod/service-worker.js",
     "static/css/2.6c4b800a.chunk.css.map": "/mind-salad-bar_prod/static/css/2.6c4b800a.chunk.css.map",
     "static/css/main.80c7b5ed.chunk.css.map": "/mind-salad-bar_prod/static/css/main.80c7b5ed.chunk.css.map",
-    "static/js/2.45187249.chunk.js.LICENSE.txt": "/mind-salad-bar_prod/static/js/2.45187249.chunk.js.LICENSE.txt",
+    "static/js/2.cc1d6a2e.chunk.js.LICENSE.txt": "/mind-salad-bar_prod/static/js/2.cc1d6a2e.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/mind-salad-bar_prod/static/media/outline-icons.ef60a4f6.woff",
     "static/media/salad1.png": "/mind-salad-bar_prod/static/media/salad1.87450046.png",
     "static/media/salad2.png": "/mind-salad-bar_prod/static/media/salad2.f1c18255.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.54a0a78a.js",
     "static/css/2.6c4b800a.chunk.css",
-    "static/js/2.45187249.chunk.js",
+    "static/js/2.cc1d6a2e.chunk.js",
     "static/css/main.80c7b5ed.chunk.css",
-    "static/js/main.f548c061.chunk.js"
+    "static/js/main.31f606ec.chunk.js"
   ]
 }
